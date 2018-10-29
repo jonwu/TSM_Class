@@ -1,6 +1,8 @@
 # TSM Class
 
-## Day 1
+- [View Architecture](#day-1-view-architecture)
+
+## Day 1 - View Architecture
 ### Themes and Gstyles
 ### Global Components
   - View
@@ -9,7 +11,7 @@
   - Modal
   - Loader
 
-## Day 2
+## Day 2 - Store Setup
 ### Utils
   - Initialization
   - Middleware
@@ -20,7 +22,7 @@
   - Persist
 
 ## Day 3
-### Adding Page
+### Adding Page - Feature Implementation
   - Adding a Route
   - RouteWithSubRoute
   - Server Side Render  
@@ -29,7 +31,7 @@
   - Browser
   - Desktop
 
-## Day 4
+## Day 4 - Production
 ### Publishing
   - Website
   - Desktop
