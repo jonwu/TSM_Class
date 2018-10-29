@@ -1,39 +1,39 @@
 # TSM Class
 
-# Day 1
-## Themes and Gstyles
-## Global Components
+## Day 1
+### Themes and Gstyles
+### Global Components
   - View
   - ListView
   - TabView 
   - Modal
   - Loader
 
-# Day 2
-## Utils
+## Day 2
+### Utils
   - Initialization
   - Middleware
   - Polling
   - API
-## Adding Item to Store
+### Adding Item to Store
   - Reducer, Actions
   - Persist
 
-# Day 3
-## Adding Page
+## Day 3
+### Adding Page
   - Adding a Route
   - RouteWithSubRoute
   - Server Side Render  
-## Platform
+### Platform
   - Mobile
   - Browser
   - Desktop
 
-# Day 4
-## Publishing
+## Day 4
+### Publishing
   - Website
   - Desktop
-## Tracking
+### Tracking
   - GA
   - Mixpanel
 
